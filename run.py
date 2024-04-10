@@ -43,6 +43,6 @@ while True:
     else:
         print("Invalid input!")
 
-    again = input("Do you want to perform another calculation? (yes/no): ")
-    if again.lower() != 'yes':
-        break
+    # again = input("Do you want to perform another calculation? (yes/no): ")
+    # if again.lower() != 'yes':
+    break
