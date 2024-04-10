@@ -17,7 +17,7 @@ name: Python Workflow
 on:
   push:
     branches:
-      - main  # Run the workflow when code is pushed to the main branch
+      - master  # Run the workflow when code is pushed to the main branch
 
 jobs:
   run_python_code:
