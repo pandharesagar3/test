@@ -20,3 +20,6 @@ jobs:
       - name: Run Python script
         run: python max.py  # Run your Python script
 
+      - name: Run Python script
+        run: python run.py  # Run your Python script
+
